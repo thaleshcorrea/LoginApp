@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="bem_vindo">Bem-Vindo</string>
+    <string name="login">Faça login para continuar</string>
+    <string name="entrar">Entrar</string>
+    <string name="nome_usuario">Nome de usuário</string>
+    <string name="senha">Digite sua senha</string>
+    <string name="sp_usuario">SP_USUARIO</string>
+    <string name="pagina_inicial">Página Inicial</string>
+    <string name="sem_usuario">Sem usuário</string>
+    <string name="usuario_ou_senha_invalidos">Usuário ou Senha inválidos</string>
+
+    <string name="menu_item_sair">Sair</string>
+    <string name="extra_manter_conectado">MANTER_CONECTADO</string>
+    <string name="main_title">Página Inicial</string>
+</resources>
